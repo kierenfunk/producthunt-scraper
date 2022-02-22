@@ -1,5 +1,4 @@
-# Python starter template
-> Template for python with pipenv
+# ProductHunt Web Scraper
 
 ## Get Started
 
